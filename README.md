@@ -1,6 +1,6 @@
 # study_projects
 
-|Проекта|Описание|Основные инструменты|
+|Проект|Описание|Основные инструменты|
 | :------------- |:--------| :-----|
 | [auto_price](https://github.com/VladimirTsebrikov/study_projects/tree/main/auto_price)      | Модель для определение рыночной стоимости автомобиля для сервиса по продаже подержаных автомобилей.     | pandas, sklearn, lightgbm, catboost, time |
 | [customer_age](https://github.com/VladimirTsebrikov/study_projects/tree/main/customer_age)      | Модель машинного зрения для определения возраста клиентов магазина.     | pandas, keras, matplotlib |
